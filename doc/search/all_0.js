@@ -1,6 +1,15 @@
 var searchData=
 [
   ['axi_5fgpio_2eh',['axi_gpio.h',['../axi__gpio_8h.html',1,'']]],
+  ['axi_5fqspi_5ffree',['axi_qspi_free',['../axi__quad__spi_8h.html#a13a4c17699893bfb8e6b2a086c2330e9',1,'axi_quad_spi.h']]],
+  ['axi_5fqspi_5fget',['axi_qspi_get',['../axi__quad__spi_8h.html#a70ba4c38599a5b9a1badd067a5938de5',1,'axi_quad_spi.h']]],
+  ['axi_5fqspi_5freset',['axi_qspi_reset',['../axi__quad__spi_8h.html#a777499551a88b7d850d35806558a5826',1,'axi_quad_spi.h']]],
+  ['axi_5fqspi_5fsend_5fbuffer',['axi_qspi_send_buffer',['../axi__quad__spi_8h.html#a524a0ade1d10bc430c31bfbdc598da8d',1,'axi_quad_spi.h']]],
+  ['axi_5fqspi_5fsend_5fbyte',['axi_qspi_send_byte',['../axi__quad__spi_8h.html#a1c736cdccb6b8f2b86cd3115b814ef68',1,'axi_quad_spi.h']]],
+  ['axi_5fqspi_5fsend_5freceive_5fbuffer',['axi_qspi_send_receive_buffer',['../axi__quad__spi_8h.html#afefaae348f82fcfcdc822462f9e6a30c',1,'axi_quad_spi.h']]],
+  ['axi_5fqspi_5fsend_5freceive_5fbyte',['axi_qspi_send_receive_byte',['../axi__quad__spi_8h.html#a8d4e03a23750a4c2c3e2721b32256d3b',1,'axi_quad_spi.h']]],
+  ['axi_5fquad_5fspi_2eh',['axi_quad_spi.h',['../axi__quad__spi_8h.html',1,'']]],
+  ['axi_5fuartlite_2eh',['axi_uartlite.h',['../axi__uartlite_8h.html',1,'']]],
   ['axigpio_5fchannel_5fget',['axigpio_channel_get',['../axi__gpio_8h.html#aa74f694bc751a2efcf4a5c8d20329ea9',1,'axi_gpio.h']]],
   ['axigpio_5fchannel_5fset',['axigpio_channel_set',['../axi__gpio_8h.html#a8ea9360651048f7d16c534ff994d2029',1,'axi_gpio.h']]],
   ['axigpio_5ffree',['axigpio_free',['../axi__gpio_8h.html#a262a0cb3210c0042fae0c2c1e9e99d54',1,'axi_gpio.h']]],
@@ -13,5 +22,16 @@ var searchData=
   ['axigpio_5fsingle_5fget',['axigpio_single_get',['../axi__gpio_8h.html#ac0ff5fae692dcdf44ebeb91f6d839633',1,'axi_gpio.h']]],
   ['axigpio_5fsingle_5finput',['axigpio_single_input',['../axi__gpio_8h.html#a49a8e2ca7948b700d223745a8ff1ee74',1,'axi_gpio.h']]],
   ['axigpio_5fsingle_5foutput',['axigpio_single_output',['../axi__gpio_8h.html#a8a3b47a0987a98f852ad99780264dc75',1,'axi_gpio.h']]],
-  ['axigpio_5fsingle_5fset',['axigpio_single_set',['../axi__gpio_8h.html#a6c1d83b547463f8ae176b453ff01cf4d',1,'axi_gpio.h']]]
+  ['axigpio_5fsingle_5fset',['axigpio_single_set',['../axi__gpio_8h.html#a6c1d83b547463f8ae176b453ff01cf4d',1,'axi_gpio.h']]],
+  ['axiuartlite_5ffree',['axiuartlite_free',['../axi__uartlite_8h.html#aa2e6d59bb07fe947397eb91ae63ce3f0',1,'axi_uartlite.h']]],
+  ['axiuartlite_5fget',['axiuartlite_get',['../axi__uartlite_8h.html#a04a8e06cbfda919684d23d870b2afdb8',1,'axi_uartlite.h']]],
+  ['axiuartlite_5frecv_5fbyte',['axiuartlite_recv_byte',['../axi__uartlite_8h.html#a72469f2abf881543f2ada08e886e342d',1,'axi_uartlite.h']]],
+  ['axiuartlite_5frecv_5fbytes',['axiuartlite_recv_bytes',['../axi__uartlite_8h.html#a1202d950dcf7be99ec1ae8ca73ad61bb',1,'axi_uartlite.h']]],
+  ['axiuartlite_5frxfifo_5fempty',['axiuartlite_rxfifo_empty',['../axi__uartlite_8h.html#aed6e75488612e84d88636f53647d8249',1,'axi_uartlite.h']]],
+  ['axiuartlite_5frxfifo_5ffull',['axiuartlite_rxfifo_full',['../axi__uartlite_8h.html#a06629a3ce8baa399832bbd38f7d6ca81',1,'axi_uartlite.h']]],
+  ['axiuartlite_5fsend_5fbyte',['axiuartlite_send_byte',['../axi__uartlite_8h.html#a96cccb8119348cb7a819608b4df99ff6',1,'axi_uartlite.h']]],
+  ['axiuartlite_5fsend_5fbytes',['axiuartlite_send_bytes',['../axi__uartlite_8h.html#a31a081bdff8a039651211155b5eba3bb',1,'axi_uartlite.h']]],
+  ['axiuartlite_5fset_5fmax_5fwait',['axiuartlite_set_max_wait',['../axi__uartlite_8h.html#ad856c57db65c5b3b636cc48ca3d9c069',1,'axi_uartlite.h']]],
+  ['axiuartlite_5ftxfifo_5fempty',['axiuartlite_txfifo_empty',['../axi__uartlite_8h.html#a09d1b7b5373a710f21931209bd0df3dd',1,'axi_uartlite.h']]],
+  ['axiuartlite_5ftxfifo_5ffull',['axiuartlite_txfifo_full',['../axi__uartlite_8h.html#a7e3a0994e1dfb579ef8c39c64930a883',1,'axi_uartlite.h']]]
 ];
